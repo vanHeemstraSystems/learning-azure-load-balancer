@@ -1,10 +1,6 @@
 # 100 - Azure Load Balancer
 
-I’ll create a comprehensive reverse engineering breakdown of Azure Load Balancer following the exact same pattern. Let me build this for you.​​​​​​​​​​​​​​​​
-
-Perfect! I’ve created your comprehensive Azure Load Balancer reverse engineering document following the exact same pattern as the NSG breakdown.
-
-[View your document](computer:///mnt/user-data/outputs/Azure-LoadBalancer-Reverse-Engineering.md)
+This is a comprehensive reverse engineering breakdown of Azure Load Balancer following the exact same pattern as the Network Security Group (NSG) breakdown.
 
 ## What’s Inside
 
