@@ -1,4 +1,4 @@
-# 100 - Azure Load Balancer
+# 300 - Azure Load Balancer Reverse Engineering
 
 This is a comprehensive reverse engineering breakdown of Azure Load Balancer following the exact same pattern as the Network Security Group (NSG) breakdown.
 
